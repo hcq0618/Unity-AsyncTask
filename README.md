@@ -41,7 +41,7 @@ Set the callback that executes completed on the child thread
 
 execute the task
 
-## LICENSE
+## License
 
 MIT License
 

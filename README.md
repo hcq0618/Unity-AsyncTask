@@ -1,6 +1,8 @@
 # Unity-AsyncTask
 async task in unity  similar to  Android AsyncTask
 
+Build in Unity 5.3.4f
+
 ## 用法 Usage
 
 AsyncTask task=AsyncTask.Create();
